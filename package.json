@@ -2,7 +2,7 @@
   "name": "cra-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suyangsong.github.io/Brainstation3d",
+  "homepage": "https://iskurbanov.github.io/kickfluencer",
   "dependencies": {
     "@weknow/react-bubble-chart-d3": "^1.0.12",
     "axios": "^0.18.0",
